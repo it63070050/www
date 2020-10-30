@@ -3,8 +3,8 @@
         <meta charset="UTF-8">
     </head>
     <body>
-        <h1>นางสาวณัฐณิชา โล่ห์ชาวนา</h1>
-        <p>อั้ม</p>
+        <h1>นางสาวณัฐณิชา โล่ห์ชาวนา (อั้ม)</h1>
+        <p>AUMKK</p>
         <img src="t1.jpg">
         <img src="kda.jpg">
         <br>
